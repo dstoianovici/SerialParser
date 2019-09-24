@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <Serial_Parser.h>
-#include <stdio.h>
-#include <stdlib.h>
+// #include <stdio.h>
+// #include <stdlib.h>
 
 
 #define BAUD_RATE 115200
