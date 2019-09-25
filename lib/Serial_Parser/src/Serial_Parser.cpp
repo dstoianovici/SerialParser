@@ -4,6 +4,7 @@
 ///////////Constructor////////////
 Serial_Parser::Serial_Parser(char delimiter){
   _delimiter = delimiter;
+  _num_params = num_params;
   Serial.println("parser created");
 }
 
